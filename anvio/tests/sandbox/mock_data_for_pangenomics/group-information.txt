@@ -1,6 +1,0 @@
-layers	group
-E_faecalis_6240	G1
-E_faecalis_6255	G2
-E_faecalis_6512	G2
-E_faecalis_6557	G1
-E_faecalis_6563	G1

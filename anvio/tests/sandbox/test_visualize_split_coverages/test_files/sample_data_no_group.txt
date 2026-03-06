@@ -1,3 +1,0 @@
-sample_name	sample_color
-sample_A	#004488
-sample_B	#DDAA33

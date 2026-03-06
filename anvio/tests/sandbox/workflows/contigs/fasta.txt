@@ -1,4 +1,0 @@
-name	path
-E_faecalis_6240	E_faecalis_6240.fa.gz
-E_faecalis_6255	E_faecalis_6255.fa
-E_faecalis_6512	E_faecalis_6512.fa

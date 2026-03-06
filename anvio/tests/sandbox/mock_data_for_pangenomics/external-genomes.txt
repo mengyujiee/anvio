@@ -1,6 +1,0 @@
-name	contigs_db_path
-E_faecalis_6240	E_faecalis_6240.db
-E_faecalis_6255	E_faecalis_6255.db
-E_faecalis_6512	E_faecalis_6512.db
-E_faecalis_6557	E_faecalis_6557.db
-E_faecalis_6563	E_faecalis_6563.db

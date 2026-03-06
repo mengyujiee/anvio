@@ -1,2 +1,0 @@
-name	source	path
-Ribosomal_L16_external_hmm	Ribosomal_L16_external_hmm	Ribosomal_L16_external_hmm

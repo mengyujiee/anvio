@@ -1,3 +1,0 @@
-name	group
-P_marinus	BACT
-B_thetaiotamicron	BACT
