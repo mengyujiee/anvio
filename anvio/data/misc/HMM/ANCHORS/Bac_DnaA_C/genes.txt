@@ -1,2 +1,0 @@
-gene	accession	hmmsource
-Bac_DnaA_C	PF08299.18	pfam.xfam.org

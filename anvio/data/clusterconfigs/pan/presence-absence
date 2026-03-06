@@ -1,5 +1,0 @@
-[general]
-
-[PresenceAbsenceData !PAN.db::gene_cluster_presence_absence]
-table_form = view
-normalize = False

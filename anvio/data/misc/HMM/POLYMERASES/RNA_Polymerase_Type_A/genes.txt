@@ -1,2 +1,0 @@
-gene	accession	hmmsource
-RNApolA	RNApolA_10.1073	https://doi.org/10.1073/pnas.1912006116

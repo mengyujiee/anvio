@@ -1,2 +1,0 @@
-gene	accession	hmmsource
-18S_rRNA_euk	None	barrnap
